@@ -1,0 +1,20 @@
+[draggable=true] {
+    cursor: move;
+}
+
+.resizable {
+    overflow: scroll;
+    resize: both;
+}
+
+.color {
+  background-color: #aa1132;
+  width: 30px;
+  height: 30px;
+}
+
+.color2 {
+  background-color: #bbff02;
+  width: 30px;
+  height: 30px;
+}
