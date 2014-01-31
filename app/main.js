@@ -1,6 +1,8 @@
+/* globals jQuery */
 var express = require('express')
   , stylus = require('stylus')
   , nib = require('nib')
+  , $ = jQuery
 
 var routes = require('./routes')
 
