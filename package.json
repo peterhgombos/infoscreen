@@ -1,0 +1,8 @@
+{
+    "name": "infoscreen",
+    "description": "Info screen for PVV",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "3.x"
+    }
+}
